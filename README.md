@@ -2,6 +2,8 @@
 
 Educational Python project to analyze **triangular arbitrage opportunities**
 on **Binance exchange only**, using public market data.
+
+
 <img width="517" height="578" alt="image" src="https://github.com/user-attachments/assets/9b5f4366-63e5-47c1-8763-0be544ad1a25" />
 
 
